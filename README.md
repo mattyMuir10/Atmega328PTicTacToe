@@ -1,2 +1,2 @@
 # Atmega328PTicTacToe
-tic tac toe game using bare metal atmega 328p with solving done by logic gates
+A tic tac toe game done with bare metal atmega328p with logic gates used to solve
